@@ -1,3 +1,8 @@
 .bg-color{
     background-color: #cfe2ff;
 }
+
+.card-top-border-radius{
+    border-top-left-radius: 11px;
+    border-top-right-radius: 11px;
+}
